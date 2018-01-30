@@ -1,0 +1,15 @@
+Index(['Car Number', 'New Fleet'], dtype='object')
+Mean_New: 30.481013
+Median_New: 32.000000
+Var_New: 36.831918
+std_New: 6.068931
+MAD_New: 4.000000
+('standard deviation_New: ', (6.068930545150857, 5.138538176092826, 6.911543676175999))
+Index(['car number', 'Current fleet'], dtype='object')
+Mean_Current: 20.144578
+Median_Current: 19.000000
+Var_Current: 40.983113
+std_Current: 6.401805
+MAD_Current: 4.000000
+('standard deviation_Currnet: ', (6.401805462179708, 5.810682439908721, 6.94629182676233))
+
